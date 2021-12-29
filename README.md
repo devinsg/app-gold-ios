@@ -1,2 +1,2 @@
-# app-gold-ios
-app-gold-ios
+# app-merchant-ios
+app-merchant-ios
