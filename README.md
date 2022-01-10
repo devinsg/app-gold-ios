@@ -1,2 +1,2 @@
-# app-merchant-ios
-app-merchant-ios
+# ios-app-merchant
+ios app merchant
