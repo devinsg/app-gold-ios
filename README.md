@@ -1,2 +1,2 @@
-# app-merchant-ios
-app-merchant-ios by xcode 12 - swift
+# ios-app-merchant
+ios-app-merchant by xcode 12 - swift
